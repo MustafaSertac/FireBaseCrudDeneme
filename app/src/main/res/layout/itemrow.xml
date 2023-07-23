@@ -6,7 +6,7 @@
     android:layout_height="wrap_content"
     android:gravity="center"
     android:orientation="vertical"
-    android:background="@color/material_dynamic_primary50"
+    android:background="@color/design_default_color_primary"
     >
 
     <androidx.constraintlayout.widget.ConstraintLayout
